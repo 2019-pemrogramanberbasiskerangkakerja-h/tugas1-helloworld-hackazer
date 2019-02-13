@@ -1,0 +1,19 @@
+{
+  "name": "pbkk",
+  "version": "1.0.0",
+  "description": "PBKK",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rizaldy",
+    "primanta",
+    "putra"
+  ],
+  "author": "Rizaldy Puta",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
